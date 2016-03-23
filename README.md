@@ -1,0 +1,2 @@
+# larastrap
+Laravel webapp architype 
